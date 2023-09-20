@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/osmodies/helloworld-npm-package#readme",
   "publishConfig": {
-    "@osmodies:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   }
 }
