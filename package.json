@@ -15,6 +15,10 @@
   ],
   "author": "osmodies",
   "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-lambda": "3.405.0",
+    "@aws-sdk/client-secrets-manager": "3.405.0"
+  },
   "bugs": {
     "url": "https://github.com/osmodies/helloworld-npm-package/issues"
   },
